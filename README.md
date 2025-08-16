@@ -108,7 +108,3 @@ Now moving towards the admin panel, an administrator has full control over the s
 Also, the admin has to manage shop settings such as color, size, shipping cost, categories. In-depth, the category refers to top, mid, and end level categories for displaying products. Each product needs to have a top, mid, and end level category just like a host for management of it. In fact, these are the exact point which displays under the website’s navigation bar. Besides, an administrator can manage image sliders, page settings, services sections for the client-side of things.
 
 <img width="959" alt="Screenshot 2024-07-18 154915" src="https://github.com/user-attachments/assets/270be569-55dd-4be5-a9a4-9694984d9441">
-
-
-
-If you need assistance with setup, customization, or any other support, feel free to contact me. I’m here to help and provide the best solutions for your needs.
