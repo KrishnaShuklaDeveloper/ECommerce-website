@@ -109,30 +109,6 @@ Also, the admin has to manage shop settings such as color, size, shipping cost, 
 
 <img width="959" alt="Screenshot 2024-07-18 154915" src="https://github.com/user-attachments/assets/270be569-55dd-4be5-a9a4-9694984d9441">
 
-## Installation:
 
-After Starting Apache and MySQL in XAMPP, follow the following steps:
-
-1st Step: Extract file
-
-2nd Step: Copy the main project folder
-
-3rd Step: Paste in xampp/htdocs/
-
-Now Connecting Database 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
-
-5th Step: Click on the databases tab
-
-6th Step: Create a database named “ecommerceweb” and then click on the import tab
-
-7th Step: Click on browse file and select “ecommerceweb.sql” file which is inside “DATABASE” folder
-
-8th Step: Click on go.
-
-After Creating Database,
-
-9th Step: Open a browser and go to URL “http://localhost/eCommerce-website-in-PHP”
-
-Need Help or Customization?
 
 If you need assistance with setup, customization, or any other support, feel free to contact me. I’m here to help and provide the best solutions for your needs.
